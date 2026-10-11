@@ -1,0 +1,56 @@
+/* =============================================================================
+   Noindex Manager — Admin Styles
+   ============================================================================= */
+
+/* Classic editor meta box */
+.nim-meta-box {
+    padding: 2px 0;
+}
+
+.nim-label {
+    display: flex;
+    align-items: flex-start;
+    gap: 8px;
+    font-weight: 600;
+    cursor: pointer;
+    line-height: 1.4;
+}
+
+.nim-label input[type="checkbox"] {
+    margin-top: 2px;
+    flex-shrink: 0;
+}
+
+.nim-help {
+    margin: 8px 0 0 0;
+    font-size: 12px;
+    color: #646970;
+    line-height: 1.5;
+}
+
+.nim-active-notice {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin: 10px 0 0 0;
+    padding: 6px 10px;
+    background: #fcf0d3;
+    border-left: 3px solid #dba617;
+    border-radius: 2px;
+    font-size: 12px;
+    font-weight: 600;
+    color: #7a4f00;
+}
+
+.nim-active-notice .dashicons {
+    font-size: 16px;
+    width: 16px;
+    height: 16px;
+    flex-shrink: 0;
+}
+
+/* Block editor notice */
+.nim-block-notice {
+    margin-top: 10px !important;
+    font-size: 12px;
+}
