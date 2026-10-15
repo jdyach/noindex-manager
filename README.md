@@ -2,6 +2,10 @@
 
 A WordPress plugin that adds a simple checkbox to the post/page editor — in both the Classic editor and Gutenberg block editor — to set individual content as `noindex`, keeping it out of search engine results.
 
+[![Try it live in WordPress Playground](https://img.shields.io/badge/Try%20it%20live-WordPress%20Playground-3858e9?logo=wordpress&logoColor=white&style=for-the-badge)](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/jdyach/noindex-manager/main/_playground/blueprint.json)
+
+The live demo runs a real WordPress site in your browser with this plugin, the [Fieldnote](https://github.com/jdyach/fieldnote) block theme and sample content. It opens a post in the block editor with "Hide from search engines" already checked. View the post's source to see the `noindex` meta tag. Nothing to install.
+
 ## Features
 
 - **Classic editor** meta box under "Search Engine Visibility" in the post sidebar
