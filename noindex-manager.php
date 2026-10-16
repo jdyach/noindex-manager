@@ -4,7 +4,7 @@
  * Plugin URI:        https://github.com/jdyach/noindex-manager
  * Description:       Adds a simple checkbox to the post/page editor to set individual content as noindex, keeping it out of search engine results.
  * Version:           1.0.0
- * Author:            Jacqui Dyachenko
+ * Author:            Jacqui Dyach
  * Author URI:        https://jacquid.com
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
